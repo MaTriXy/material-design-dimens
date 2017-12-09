@@ -12,6 +12,19 @@
 -->
 <resources>
     <!-- Default colors and dimens per Material Design guidelines (Last update: May 2016 release) -->
+    <!-- Style -->
+    <!-- Typography -->
+    <dimen name="material_typography_button">15sp</dimen>
+    <dimen name="material_typography_caption">13sp</dimen>
+    <dimen name="material_typography_body1">15sp</dimen>
+    <dimen name="material_typography_body2">15sp</dimen>
+    <dimen name="material_typography_subheading">17sp</dimen>
+    <dimen name="material_typography_title">21sp</dimen>
+    <dimen name="material_typography_headline">24sp</dimen>
+    <dimen name="material_typography_display1">34sp</dimen>
+    <dimen name="material_typography_display2">45sp</dimen>
+    <dimen name="material_typography_display3">56sp</dimen>
+    <dimen name="material_typography_display4">112sp</dimen>
     <!-- Layout -->
     <!-- Metrics & Keylines -->
     <!-- https://www.google.com/design/spec/layout/metrics-keylines.html#metrics-keylines-keylines-spacing -->
@@ -45,6 +58,7 @@
     <dimen name="material_component_bottom_sheet_list_item_height">48dp</dimen>
     <dimen name="material_component_bottom_sheet_list_item_text_horizontal_padding">32dp</dimen>
     <!-- Bottom navigation -->
+    <dimen name="material_component_bottom_navigation_height">56dp</dimen>
     <!-- Buttons -->
     <dimen name="material_component_button_height">36dp</dimen>
     <dimen name="material_component_button_dense_height">32dp</dimen>
@@ -64,6 +78,10 @@
     <dimen name="material_component_cards_action_button_row_padding">8dp</dimen>
     <dimen name="material_component_cards_supporting_text_top_padding">16dp</dimen>
     <dimen name="material_component_cards_supporting_text_bottom_padding">24dp</dimen>
+    <dimen name="material_component_cards_left_and_right_padding">16dp</dimen>
+    <dimen name="material_component_cards_top_and_bottom_padding">16dp</dimen>
+    <dimen name="material_component_cards_padding_from_edge_of_screen_to_card">8dp</dimen>
+    <dimen name="material_component_cards_space_between_cards">8dp</dimen>
     <!-- Chips -->
     <!-- Data tables -->
     <!-- Dialogs -->
